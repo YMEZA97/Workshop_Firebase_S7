@@ -1,4 +1,4 @@
-package com.example.workshop_firebase_s7
+package com.example.gtk_flutter
 
 import io.flutter.embedding.android.FlutterActivity
 

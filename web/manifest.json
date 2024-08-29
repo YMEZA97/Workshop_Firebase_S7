@@ -1,6 +1,6 @@
 {
-    "name": "workshop_firebase_s7",
-    "short_name": "workshop_firebase_s7",
+    "name": "gtk_flutter",
+    "short_name": "gtk_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
