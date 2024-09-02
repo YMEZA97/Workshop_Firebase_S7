@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181751243438",
+    "project_id": "fir-flutter-codelab-fc054",
+    "storage_bucket": "fir-flutter-codelab-fc054.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181751243438:android:ca4b38c6da953f28efc33f",
+        "android_client_info": {
+          "package_name": "com.workshopym.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsYeIxz06ZVzAvli-ykAMHyjOIMG3b0T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
